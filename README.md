@@ -1,1 +1,1 @@
-# Suicide_Depressive_Detect
+# Suicide_Depressive_Classify
